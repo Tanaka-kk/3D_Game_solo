@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://mwc0yxpimqf2"]
+
+[ext_resource type="PackedScene" uid="uid://bejbfhrci1rtr" path="res://Assets/Plate Square/Plate_Square.fbx" id="1_6t6q4"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6t6q4"]
+size = Vector3(1.5985718, 0.18914795, 1.6513672)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Plate_Square" parent="." instance=ExtResource("1_6t6q4")]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0.08155823, 0, 0.08131504)
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0.050811768, 0.09841919, 0.041503906)
+shape = SubResource("BoxShape3D_6t6q4")

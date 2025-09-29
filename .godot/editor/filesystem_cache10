@@ -1,0 +1,74 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1759126028
+export_presets.cfg::TextFile::-1::1759126028::0::1::::<><><>0<>0<><>::
+Icon.png::CompressedTexture2D::2982977519075132101::1759123749::1759123807::1::::<><><>0<>0<>3634f1dd9c0f1d2ffd767bc4ddfcd0ea<>res://.godot/imported/Icon.png-33e63688031d53466d4d656c73cf10ca.ctex::
+icon.svg::CompressedTexture2D::6644827968735120689::1759123749::1759123807::1::::<><><>0<>0<>6d04f7ab1121fc10ecf35db4a43b9674<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1759125248
+::res://Assets/Audio/::1759123749
+::res://Assets/Audio/SFX/::1759123807
+coin.ogg::AudioStreamOggVorbis::3985214295827051773::1759123749::1759123807::1::::<><><>0<>0<>7475c7b1a58f62e7be799c55d9e0ee0b<>res://.godot/imported/coin.ogg-c94dfbd8bd4bf8286f05432bc5dc2b12.oggvorbisstr::
+jump.ogg::AudioStreamOggVorbis::799936543288841362::1759123749::1759123807::1::::<><><>0<>0<>ce5635fe811db0436f0264e437e0a964<>res://.godot/imported/jump.ogg-75d1540b8df83da7e00eeaecfd4e7bf4.oggvorbisstr::
+walking.ogg::AudioStreamOggVorbis::917610840927320841::1759123749::1759123807::1::::<><><>0<>0<>eca8407914fadb449a2d10c20b585b6c<>res://.godot/imported/walking.ogg-96580d555765f06683e32a3c80344629.oggvorbisstr::
+::res://Assets/Models/::1759123812
+cloud.glb::PackedScene::6916835744578032278::1759123749::1759123812::1::::<><><>0<>0<>9ca7db96b1ddca79756717cb213939d6<>res://.godot/imported/cloud.glb-a14ad89f23c1e81544ce8c0d5a57f1ff.scn::
+coin.glb::PackedScene::1485082353532304647::1759123749::1759123812::1::::<><><>0<>0<>434b0e1b3750b71ffce280573596f389<>res://.godot/imported/coin.glb-26e231671c2d84112ae3df1d5f0369a9.scn::
+flag.glb::PackedScene::3221128440941470804::1759123749::1759123812::1::::<><><>0<>0<>ce4c292050155456c431f0f72bd7cfef<>res://.godot/imported/flag.glb-31f8218a8283befc05b139c5bffe2392.scn::
+Platforms.glb::PackedScene::1860290078130330230::1759123749::1759123812::1::::<><><>0<>0<>b11e8564b152bf6185e0e846534562fa<>res://.godot/imported/Platforms.glb-9d58c451677063ae5dd82314b0fb6631.scn::
+::res://Assets/Models/gobot/::1759123807
+gobot_skin.gd::GDScript::7357528604552806804::1759123749::0::1::::<>Node3D<><>0<>0<><>::
+::res://Assets/Models/gobot/materials/::1759123749
+eye_mat.tres::StandardMaterial3D::7765650509386433557::1759123749::0::1::::<><><>0<>0<><>::uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
+::res://Assets/Models/gobot/model/::1759123813
+gobot.glb::PackedScene::731016555329025600::1759123749::1759123813::1::::<><><>0<>0<>a759033f016f4a52edb29155a5faf53a<>res://.godot/imported/gobot.glb-6c498e2370a40a77d284e241ecafaf4a.scn::uid://bt5o0sr6peltq::::res://Assets/Models/gobot/model/gobot_gobot_diffuse.png<>uid://cgkj45d67dalm::::res://Assets/Models/gobot/model/gobot_gobot_roughness.png<>uid://d28w5bql3g21l::::res://Assets/Models/gobot/model/gobot_gobot_normal.png
+gobot_gobot_diffuse.png::CompressedTexture2D::3782835701294553970::1759123749::1759123808::1::::<><><>0<>0<>1e0c8c2c0ddb8408efe66d897ab651e5<>res://.godot/imported/gobot_gobot_diffuse.png-59d41104fc83b7de2fbbc5fea1d76156.ctex::
+gobot_gobot_normal.png::CompressedTexture2D::9123874720625855035::1759123749::1759123807::1::::<><><>0<>0<>85a092717a14893a55cc1dd20394c7e9<>res://.godot/imported/gobot_gobot_normal.png-eb2deece02b71d1676192e9c83dbba9e.ctex::
+gobot_gobot_roughness.png::CompressedTexture2D::5215218029499431098::1759123749::1759123807::1::::<><><>0<>0<>416ff40c2372d43d56dbf892cd5aff22<>res://.godot/imported/gobot_gobot_roughness.png-32906c540f947357967c2b1ceccdb88c.ctex::
+::res://Assets/Models/gobot/model/custom/::1759123749
+custom_lib.res::AnimationLibrary::763617771339198433::1759123749::0::1::::<><><>0<>0<><>::uid://c4s3bebvtgey4::::res://models/gobot/model/custom/run_step.res<>uid://ojp8slmuhwjm::::res://models/gobot/model/custom/hurt.res
+hurt.res::Animation::1002193859794753742::1759123749::0::1::::<><><>0<>0<><>::uid://yj5yx07nva6l::::res://models/gobot/textures/hurt_eyes.png<>uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
+run_step.res::Animation::6847178706671563677::1759123749::0::1::::<><><>0<>0<><>::
+::res://Assets/Models/gobot/textures/::1759123807
+closed_eyes.png::CompressedTexture2D::5130339085040898258::1759123749::1759123807::1::::<><><>0<>0<>19e204dfff677811c550d76db21834f2<>res://.godot/imported/closed_eyes.png-f435061f031835a0bcc81fbf227f12cc.s3tc.ctex::
+hurt_eyes.png::CompressedTexture2D::1704977264065322721::1759123749::1759123807::1::::<><><>0<>0<>b7cd14e494a0b445758565f2f299b3c3<>res://.godot/imported/hurt_eyes.png-e16045af19689fa579233ce9d9ea8c88.s3tc.ctex::
+open_eye.png::CompressedTexture2D::8348276059302445828::1759123749::1759123807::1::::<><><>0<>0<>35fb98622146e15b670a4a5637517769<>res://.godot/imported/open_eye.png-f4d0926d20496a6cb25a16358dba5311.s3tc.ctex::
+::res://Assets/Plate Square/::1759124489
+Plate_Square.fbx::PackedScene::2685825498021789355::1759124456::1759124489::1::::<><><>0<>0<>b17279db4897e8264dd304c1c2c347c3<>res://.godot/imported/Plate_Square.fbx-d4b7b51c6dfb0d0b5095211b457c2128.scn::
+::res://Assets/Resources/::1759123811
+3DPlatformerStarterIcon.svg::CompressedTexture2D::2267401265911617730::1759123749::1759123807::1::::<><><>0<>0<>0832750cf4914a7be12c201f2b753b6b<>res://.godot/imported/3DPlatformerStarterIcon.svg-2a0bad38cee0e6597957d3f35dd8fc75.ctex::
+cloud.res::ArrayMesh::220084661374259981::1759123749::0::1::::<><><>0<>0<><>::uid://clhres80vdm85::::res://Assets/Textures/colormap.png
+SDSplashScreen.png::CompressedTexture2D::6036528773009984314::1759123749::1759123811::1::::<><><>0<>0<>1c31a04462277ac61d0ae47c51826964<>res://.godot/imported/SDSplashScreen.png-70dbd3fb2976ebd6d77830919501bab5.ctex::
+::res://Assets/Simple Wooden Plate/::1759124489
+model.obj::Mesh::4381737011894853489::1759124453::1759124489::1::::<><><>0<>0<>b336772d069ea6427d76e755df621572<>res://.godot/imported/model.obj-db3c519fcb73a0c26aeb3bd41499cf81.mesh<*>res://.godot/imported/model.obj-db3c519fcb73a0c26aeb3bd41499cf81.mesh::
+::res://Assets/Textures/::1759123807
+coin.png::CompressedTexture2D::5687445955481658703::1759123749::1759123807::1::::<><><>0<>0<>821651f9c3ce3313b31e1c0d3187cb87<>res://.godot/imported/coin.png-0ac6506864075840a162894edac72bfa.ctex::
+colormap.png::CompressedTexture2D::5560409621298556152::1759123749::1759123807::1::::<><><>0<>0<>19c5da63568b82c3e9ac236f9b131d96<>res://.godot/imported/colormap.png-402e65482668b0102af5becd1b9906f9.s3tc.ctex::
+Logo.png::CompressedTexture2D::513676997113186014::1759123749::1759123807::1::::<><><>0<>0<>82359a953672cd2b3c1a37fc931c418c<>res://.godot/imported/Logo.png-c921c757d1f9daddc4629fc753e47a21.s3tc.ctex::
+particle.png::CompressedTexture2D::8374933117756215108::1759123749::1759123807::1::::<><><>0<>0<>b7071f01149267dd5a07b4256f6064a4<>res://.godot/imported/particle.png-914ce5d0d5fb768c81648aa59f4b15b9.s3tc.ctex::
+::res://Assets/Textures/PrototypeTextures/::1759123807
+texture_01.png::CompressedTexture2D::6358347128194698036::1759123749::1759123807::1::::<><><>0<>0<>4ddb5ed8955024f9ae421759bc719831<>res://.godot/imported/texture_01.png-45f8f053e5f632dfe851680860df8a45.s3tc.ctex::
+texture_13.png::CompressedTexture2D::1803560586657691755::1759123749::1759123807::1::::<><><>0<>0<>46837ade8ee332346de4b62bc7607df2<>res://.godot/imported/texture_13.png-e1800ed37ea0fdc474104c76690ffa24.s3tc.ctex::
+::res://Assets/Wizardus Maximus/::1759124026
+WizardusMaximus.fbx::PackedScene::4334849972460076069::1759124009::1759124025::1::::<><><>0<>0<>587b9f5ff4d94368963cd2a39f011d33<>res://.godot/imported/WizardusMaximus.fbx-865ff55876c617c440b69d9ab6db5656.scn::uid://byhil26uyvagb::::res://Assets/Wizardus Maximus/WizardusMaximus_0.png
+WizardusMaximus_0.png::CompressedTexture2D::4085910421920379189::1759124025::1759124026::1::::<><><>0<>0<>840dca49412f28e7b182fc273984cb54<>res://.godot/imported/WizardusMaximus_0.png-a43824c21285e74439cfbf0549a32c7f.s3tc.ctex::
+::res://docs/::1759126031
+index.apple-touch-icon.png::CompressedTexture2D::8120299125738688544::1759126031::1759126050::1::::<><><>0<>0<>b18d6f5d2aad14caa3c9bc670a9cd0ff<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::9022882237803382622::1759126031::1759126050::1::::<><><>0<>0<>e9839b5a8a25ac5a0c94e5c830d47ac6<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::4997443267722611542::1759126031::1759126054::1::::<><><>0<>0<>8ce4e0624b9c7cb09c01062d0120e94e<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://Scenes/::1759125189
+Coin.tscn::PackedScene::3151075437806940880::1759123749::0::1::::<><><>0<>0<><>::res://Scripts/Coin.gd<>uid://clhres80vdm85::::res://Assets/Textures/colormap.png<>uid://drk46pes52whg::::res://Assets/Textures/particle.png
+demo_scene.tscn::PackedScene::1083666848052846655::1759125189::0::1::::<><><>0<>0<><>::uid://cf0w0skqs3k64::::res://Scenes/player.tscn<>uid://byyr01tut00wv::::res://Scenes/wooden_plate.tscn<>uid://mwc0yxpimqf2::::res://Scenes/plate.tscn<>uid://cge6qchhlco1y::::res://Scripts/DeadZone.gd<>uid://bk5n0tn4k1l0c::::res://Scenes/Coin.tscn<>uid://cn1d0dkhxqpki::::res://Scripts/GameManager.gd<>uid://cnbbny7qjh2xn::::res://Assets/Textures/coin.png<>uid://n0xgrr51qilv::::res://Scripts/GameUI.gd<>uid://hk3gj75327hy::::res://Assets/Textures/Logo.png
+plate.tscn::PackedScene::887849809862476421::1759124803::0::1::::<><><>0<>0<><>::uid://bejbfhrci1rtr::::res://Assets/Plate Square/Plate_Square.fbx
+PlatformBlue.tscn::PackedScene::7515860226061411885::1759123749::0::1::::<><><>0<>0<><>::
+PlatformRed.tscn::PackedScene::1795490862317118012::1759124737::0::1::::<><><>0<>0<><>::uid://bejbfhrci1rtr::::res://Assets/Plate Square/Plate_Square.fbx
+player.tscn::PackedScene::5176776409736823779::1759124092::0::1::::<><><>0<>0<><>::uid://xnx0sqxlqssv::::res://Scripts/player.gd<>uid://bt5o0sr6peltq::::res://Assets/Models/gobot/model/gobot_gobot_diffuse.png<>uid://cgkj45d67dalm::::res://Assets/Models/gobot/model/gobot_gobot_roughness.png<>uid://d28w5bql3g21l::::res://Assets/Models/gobot/model/gobot_gobot_normal.png<>uid://b203l0wb7n2i8::::res://Assets/Wizardus Maximus/WizardusMaximus.fbx<>uid://b46lgqinp5w75::::res://Scripts/CameraMovement.gd<>uid://deu06eho4c74::::res://Assets/Resources/cloud.res<>uid://ncq6fpsrcmjh::::res://Assets/Audio/SFX/walking.ogg
+wooden_plate.tscn::PackedScene::4121576226721463965::1759124915::0::1::::<><><>0<>0<><>::uid://b3ostlcvtavnt::::res://Assets/Simple Wooden Plate/model.obj
+::res://Scenes/Audio/::1759123749
+AudioManager.tscn::PackedScene::3282815482995409156::1759123749::0::1::::<><><>0<>0<><>::res://Scripts/AudioManager.gd<>uid://lnq3qyt6mylm::::res://Assets/Audio/SFX/jump.ogg<>uid://bw1p5rf0tudfx::::res://Assets/Audio/SFX/coin.ogg
+::res://Scripts/::1759123807
+AudioManager.gd::GDScript::5030371317237679879::1759123749::0::1::::<>Node<><>0<>0<><>::
+CameraMovement.gd::GDScript::4486572314599702582::1759123749::0::1::::<>Node3D<><>0<>0<><>::
+Coin.gd::GDScript::4572275110832255821::1759123749::0::1::::<>Area3D<><>0<>0<><>::
+DeadZone.gd::GDScript::5204142855902048804::1759123749::0::1::::<>Area3D<><>0<>0<><>::
+GameManager.gd::GDScript::5739197125479623912::1759123749::0::1::::<>Node3D<><>0<>0<><>::
+GameUI.gd::GDScript::965472537300046923::1759123749::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::1642622421356310993::1759123749::0::1::::<>CharacterBody3D<><>0<>0<><>::

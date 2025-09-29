@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://byyr01tut00wv"]
+
+[ext_resource type="ArrayMesh" uid="uid://b3ostlcvtavnt" path="res://Assets/Simple Wooden Plate/model.obj" id="1_ruxgv"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_mggbq"]
+size = Vector3(1.3237152, 0.18914795, 1.6513672)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Model" type="MeshInstance3D" parent="."]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, 0.030625105, 0, 0.09017372)
+mesh = ExtResource("1_ruxgv")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(3.5836577, 0, 0, 0, 5, 0, 0, 0, 2.767044, -0.058525458, 0.09841919, 0.041503906)
+shape = SubResource("BoxShape3D_mggbq")
