@@ -58,7 +58,7 @@ font_color = Color(0.996094, 0.691406, 0.261719, 1)
 
 [sub_resource type="LabelSettings" id="LabelSettings_ad2i4"]
 font = ExtResource("10_okl2h")
-font_size = 32
+font_size = 40
 font_color = Color(0, 0, 0, 1)
 
 [node name="DemoScene" type="Node3D"]
@@ -184,12 +184,12 @@ theme_override_font_sizes/font_size = 48
 text = "X 3"
 label_settings = SubResource("LabelSettings_igq7x")
 
-[node name="Name" type="Label" parent="UserInterface/GameUI"]
+[node name="NameLabel" type="Label" parent="UserInterface/GameUI"]
 layout_mode = 0
-offset_left = 808.0
-offset_top = 36.0
-offset_right = 1141.0
-offset_bottom = 60.0
+offset_left = 715.0
+offset_top = 67.0
+offset_right = 1131.0
+offset_bottom = 96.0
 text = "นายชลวิชญ์  ลิลาศ   663380260-7 		"
 label_settings = SubResource("LabelSettings_ad2i4")
 
