@@ -59,6 +59,7 @@ font_color = Color(0.996094, 0.691406, 0.261719, 1)
 [sub_resource type="LabelSettings" id="LabelSettings_ad2i4"]
 font = ExtResource("10_okl2h")
 font_size = 32
+font_color = Color(0, 0, 0, 1)
 
 [node name="DemoScene" type="Node3D"]
 
