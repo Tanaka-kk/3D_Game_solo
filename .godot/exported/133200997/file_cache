@@ -1,7 +1,7 @@
 res://Assets/Models/gobot/materials/eye_mat.tres::c4dd25c2e88a2d853aff30ea0c6faf1a::1759123749::res://.godot/exported/133200997/export-e373c1ebad2ef7f1e3004448fc1f012b-eye_mat.res
 res://Scenes/Audio/AudioManager.tscn::6861560ff0b070c5e415a05b5715aaf4::1759123749::res://.godot/exported/133200997/export-2f7bc3b65035db5fa0172939208fd53b-AudioManager.scn
 res://Scenes/Coin.tscn::da0490d9065f4595b2dfb01d082810bd::1759123749::res://.godot/exported/133200997/export-5afbf744fed0b8242a47725670cb66a2-Coin.scn
-res://Scenes/demo_scene.tscn::9bd95ef910f752ee496b77c0ce300313::1759125189::res://.godot/exported/133200997/export-b3ee5cb83215cd18081553af60d04b37-demo_scene.scn
+res://Scenes/demo_scene.tscn::3c8a3146da264fbc74d2cba60046a4b2::1759126882::res://.godot/exported/133200997/export-b3ee5cb83215cd18081553af60d04b37-demo_scene.scn
 res://Scenes/plate.tscn::daf818c819b0434858004b3ef44f72ff::1759124803::res://.godot/exported/133200997/export-5a39c1591f4fe444f0ccbde97c3df2af-plate.scn
 res://Scenes/PlatformBlue.tscn::9017f352defe650a1b53f4c47ee69b49::1759123749::res://.godot/exported/133200997/export-28b824738fac9b3927272b2f2e572902-PlatformBlue.scn
 res://Scenes/PlatformRed.tscn::5f08b21faa87f503dbfa3de2cb158069::1759124737::res://.godot/exported/133200997/export-3e6c71aa42a4b653c2853affd267df87-PlatformRed.scn

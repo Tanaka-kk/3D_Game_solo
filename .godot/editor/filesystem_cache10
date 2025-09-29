@@ -1,9 +1,10 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759126028
+::res://::1759126551
 export_presets.cfg::TextFile::-1::1759126028::0::1::::<><><>0<>0<><>::
 Icon.png::CompressedTexture2D::2982977519075132101::1759123749::1759123807::1::::<><><>0<>0<>3634f1dd9c0f1d2ffd767bc4ddfcd0ea<>res://.godot/imported/Icon.png-33e63688031d53466d4d656c73cf10ca.ctex::
 icon.svg::CompressedTexture2D::6644827968735120689::1759123749::1759123807::1::::<><><>0<>0<>6d04f7ab1121fc10ecf35db4a43b9674<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Assets/::1759125248
+::res://Assets/::1759126843
+paaymaay_regular.ttf::FontFile::7147400910384695413::1756956838::1759126845::1::::<><><>0<>0<>d2e436d63e9337af1bf1d3fb6a25467f<>res://.godot/imported/paaymaay_regular.ttf-d8f9d1e7cc09da34de67c2cb23c2d47e.fontdata::
 ::res://Assets/Audio/::1759123749
 ::res://Assets/Audio/SFX/::1759123807
 coin.ogg::AudioStreamOggVorbis::3985214295827051773::1759123749::1759123807::1::::<><><>0<>0<>7475c7b1a58f62e7be799c55d9e0ee0b<>res://.godot/imported/coin.ogg-c94dfbd8bd4bf8286f05432bc5dc2b12.oggvorbisstr::
@@ -50,7 +51,7 @@ texture_13.png::CompressedTexture2D::1803560586657691755::1759123749::1759123807
 ::res://Assets/Wizardus Maximus/::1759124026
 WizardusMaximus.fbx::PackedScene::4334849972460076069::1759124009::1759124025::1::::<><><>0<>0<>587b9f5ff4d94368963cd2a39f011d33<>res://.godot/imported/WizardusMaximus.fbx-865ff55876c617c440b69d9ab6db5656.scn::uid://byhil26uyvagb::::res://Assets/Wizardus Maximus/WizardusMaximus_0.png
 WizardusMaximus_0.png::CompressedTexture2D::4085910421920379189::1759124025::1759124026::1::::<><><>0<>0<>840dca49412f28e7b182fc273984cb54<>res://.godot/imported/WizardusMaximus_0.png-a43824c21285e74439cfbf0549a32c7f.s3tc.ctex::
-::res://docs/::1759126031
+::res://docs/::1759126054
 index.apple-touch-icon.png::CompressedTexture2D::8120299125738688544::1759126031::1759126050::1::::<><><>0<>0<>b18d6f5d2aad14caa3c9bc670a9cd0ff<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
 index.icon.png::CompressedTexture2D::9022882237803382622::1759126031::1759126050::1::::<><><>0<>0<>e9839b5a8a25ac5a0c94e5c830d47ac6<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
 index.png::CompressedTexture2D::4997443267722611542::1759126031::1759126054::1::::<><><>0<>0<>8ce4e0624b9c7cb09c01062d0120e94e<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
